@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Level Up</title>
+	<script src="moment.js"></script>
+	<script src="getLevel.js"></script>
+	<style>
+		body {
+			background-image: url("background.png");
+			font-family: Arial, sans-serif;
+			background-size: cover;
+		}
+		
+		.container{
+			border: 3px solid yellow;
+			position: relative;
+			height: 300px;
+			width: 330px;
+			top: 50px;
+			left: 40px;
+		}
+		
+		#avatar {
+			width: 250px;
+			border-radius: 50%;
+			border: 6px solid aqua;
+			display: -webkit-box;
+		}
+		#level{
+			font-size: 5em;
+			color: white;
+			display: inline-block;
+			position: absolute;
+			bottom: 34px;
+			right: 13px;
+			text-shadow: 0px 1px 4px black;
+		}
+		
+		#bar{
+			position: absolute;
+			height: 3.5%;
+			bottom: 30.5px;
+			left: 3px;
+			border-radius: 6px;
+			background-color: yellow;
+			z-index: 9;
+		}
+		#bar-bg{
+			position: absolute;
+			width: 100%;
+			height: 6%;
+			display: inline;
+			bottom: 27px;
+			border-radius: 6px;
+			background-color: rgba(0,0,0,0.6);
+		}
+		
+		#name{
+			font-size: 1.5em;
+			color: white;
+			text-shadow: 0px 1px 3px black;
+			position: absolute;
+			bottom: 0;
+		}
+	</style>
+</head>
+<body onload="myFunction()">
+
+	<div class="container" >
+		<img id ="avatar" src="avatar2.gif">
+		<div id="level"></div>
+		<div id="bar"></div>
+		<div id="bar-bg"></div>
+		<div id="name">CindyK906</div>
+	</div>
+	
+	<!--Retrieve and display level and levelbar-->
+	<script>
+		function myFunction() {
+		  document.getElementById("level").innerHTML = getLevel();
+		  document.getElementById("bar").style.width = (getLevelBar()*98+"%"); //max width% of levelbar is 98%
+		}
+	</script>
+</body>
+</html>
