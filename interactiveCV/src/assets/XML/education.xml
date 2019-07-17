@@ -1,0 +1,42 @@
+<EDUCATIONLIST>
+	<EDUCATION>
+		<TIME>2019 - Now</TIME>
+		<STUDY>Java Bootcamp</STUDY>
+		<LEVEL>Traineeship</LEVEL>
+		<PLACE>Young Capital</PLACE>
+		<ACHIEVEMENT>Oracle Certified Associate, Professional Scrum Master</ACHIEVEMENT>
+		<SUBJECT>Java SE8 Fundamentals, Java 8 API Documentation, Scrum, Lambda, Git 2.21.0 and Github, HTML5 en CSS3, Typescript, Bootstrap, Spring REST, HTTP, Spring Boot and Spring Data, Postman, Persistence with JPA and Hibernate, UML Class and Use Case Diagram, SQL, Angular 6 CLI with Node.js, working with programs Visual Studio Code, Eclipse, and IntelliJ.</SUBJECT>
+		<OTHER>Project was creating a blackboard online environment where fictional students and teachers could sign in to the fictional university, and could sign in to fictional courses. The front-end was done with Angular, while the backend was supported by Java, Spring, SQL.</OTHER>
+		<ICON>fas fa-code</ICON>
+	</EDUCATION>
+	<EDUCATION>
+		<TIME>2015 - 2018</TIME>
+		<STUDY>Criminology</STUDY>
+		<LEVEL>Master</LEVEL>
+		<PLACE>Vrije University Amsterdam</PLACE>
+		<ACHIEVEMENT>Title: Master of Science</ACHIEVEMENT>
+		<SUBJECT>Police, Security, Cybercrime, Geographic analyses, Forensic research, White collar crime, Organized crime, Politcal crime, Criminal profiling</SUBJECT>
+		<OTHER>Average grade 7.6, Master thesis score 8</OTHER>
+		<ICON>fas fa-fingerprint</ICON>
+	</EDUCATION>
+	<EDUCATION>
+		<TIME>2009 - 2013</TIME>
+		<STUDY>Psychology</STUDY>
+		<LEVEL>Bachelor</LEVEL>
+		<PLACE>Vrije University Amsterdam</PLACE>
+		<ACHIEVEMENT>Title: Bachelor of Science</ACHIEVEMENT>
+		<SUBJECT>Methodology, Statistics, Social psy, Biology psy, Behavior psy, Neuro psy, Filosophy, Cognition, Work psy, Personality, Research, Mental disorder.</SUBJECT>
+		<OTHER>Received Propedeuse in the first year</OTHER>
+		<ICON>fas fa-graduation-cap</ICON>
+	</EDUCATION>
+	<EDUCATION>
+		<TIME>2003 - 2009</TIME>
+		<STUDY>High School: Pre-university education</STUDY>
+		<LEVEL>VWO</LEVEL>
+		<PLACE>Openschoolgemeenschap Bijlmer</PLACE>
+		<ACHIEVEMENT>VWO degree in Culture and Society</ACHIEVEMENT>
+		<SUBJECT>Math, Geography, Culture, Social study, Art, History, French, German, English, Dutch</SUBJECT>
+		<OTHER>Began with one of the lowest degree (VMBO-K), and every year I climbed up a degree till I reached the highest degree on my high school (VWO).</OTHER>
+		<ICON>fas fa-school</ICON>
+	</EDUCATION>
+</EDUCATIONLIST>

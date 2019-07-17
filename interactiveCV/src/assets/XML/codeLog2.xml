@@ -1,0 +1,56 @@
+<OTHEREXPERIENCE>
+	<EXPERIENCE>
+		<TIME>2019</TIME>
+		<COURSE>PHP basics</COURSE>
+		<COMPANY>CodeCourse</COMPANY>
+		<OTHER>MAMP, variables, array, concatination, if-statements, switch-statements, basic arithmetics, loops, functions, scope, POST- and GET superglobals</OTHER>
+	</EXPERIENCE>
+	<EXPERIENCE>
+		<TIME>2019</TIME>
+		<COURSE>Outsystems</COURSE>
+		<COMPANY>Outsystems</COMPANY>
+		<OTHER>Low Code platform. Made a simple moviedatabase that is linked to a example database. Users could sort movies and actors, movie details were displayed per movie, admin could add and remove movies and actors, and users could rate the movie which is immediatly updated and calculated with the average score with AJAX.</OTHER>
+	</EXPERIENCE>
+	<EXPERIENCE>
+		<TIME>2018</TIME>
+		<COURSE>Java Programming Masterclass for Software Developers</COURSE>
+		<COMPANY>Udemy, by Tim Buchalka</COMPANY>
+		<OTHER>Variables, operators, datatypes, control flow statements, composition, encapsulation, polymorphism, inheritance, constructors, classes, auto- and unboxing, arrays, lists, abstract class and interface, generics, basic I/O, Lambda and streams, exceptions, debugging and unit testing.</OTHER>
+	</EXPERIENCE>
+	<EXPERIENCE>
+		<TIME>2018</TIME>
+		<COURSE>Introduction to Javascript</COURSE>
+		<COMPANY>CodeCademy</COMPANY>
+		<OTHER>Conditionals, functions, scope, arrays, loops, iterators, objects, classes</OTHER>
+	</EXPERIENCE>
+	<EXPERIENCE>
+		<TIME>2018</TIME>
+		<COURSE>Learn CSS</COURSE>
+		<COMPANY>CodeCademy</COMPANY>
+		<OTHER>Selectors, box-model, position and display, colors, typography, grid</OTHER>
+	</EXPERIENCE>
+	<EXPERIENCE>
+		<TIME>2017</TIME>
+		<COURSE>Introduction to HTML</COURSE>
+		<COMPANY>CodeCademy</COMPANY>
+		<OTHER>Elements and structure, tables, forms, css</OTHER>
+	</EXPERIENCE>
+	<EXPERIENCE>
+		<TIME>2017</TIME>
+		<COURSE>Video tutorials on Java</COURSE>
+		<COMPANY>Youtube, by Buck Roberts (TheNewBoston)</COMPANY>
+		<OTHER>JDK, Eclipse, variables, user input, calculator, operators, classes, methods and parameters, constructors, loops, arrays, access modifiers, getters and setters, toString, enum, static, final, GUI with JFrame, event handler, overriding, polymorphism, reading and writing files.</OTHER>
+	</EXPERIENCE>
+	<EXPERIENCE>
+		<TIME>2016</TIME>
+		<COURSE>Homestudy Java Programming </COURSE>
+		<COMPANY>LOI</COMPANY>
+		<OTHER>Variables, objects, operators, if-statements, loops, arrays, encapsulation, methods, inheritance and exceptions</OTHER>
+	</EXPERIENCE>
+	<EXPERIENCE>
+		<TIME>2015</TIME>
+		<COURSE>Video tutorials about C++</COURSE>
+		<COMPANY>Youtube, by LearningLad</COMPANY>
+		<OTHER>Constants, variables, data types, keywords, cout and cin, comments, operators, if-statements, loops, multi-dimensional arrays, parameters and functions, scope, break- and continue statements, return statements</OTHER>
+	</EXPERIENCE>
+</OTHEREXPERIENCE>

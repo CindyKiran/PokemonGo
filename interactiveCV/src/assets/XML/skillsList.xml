@@ -1,0 +1,38 @@
+<SKILLS>
+	<LANGUAGE>
+		<NAME>Java SE8</NAME>
+		<SUBJECT>Object Oriented Programming, loop-constructs, break- continue statements, arrays, variables and datatypes, if-statements, switch-statements, exception handling, scenebuilder, constructors, arithmetic- and logical operators, APIs, String and StringBuilder, ArrayList, methods and encapsulation, parameters and arguments, access modifiers and import statements, inheritance and polymorphism</SUBJECT>
+		<ACHIEVEMENT>Oracle Certified Java Associate, CodeCademy Course: Introduction to Java, Udemy course: Masterclass Java SE8, build basic cashier register with scenebuilder, used as backend for database for blackboard project</ACHIEVEMENT>
+	</LANGUAGE>
+	<LANGUAGE>
+		<NAME>Hypertext Markup Language</NAME>
+		<SUBJECT>Tables, grid layout, forms, links, hover effect, layout with CSS, adding animation with Javascript and JQuery, organizing in div, sending online form with PHP </SUBJECT>
+		<ACHIEVEMENT>This awesome website, CodeCademy Course: Introduction to HTML, PokeMart website (see demo)</ACHIEVEMENT>
+	</LANGUAGE>
+	<LANGUAGE>
+		<NAME>Cascading Style Sheets</NAME>
+		<SUBJECT>External- internal- css and style attribute, colors, backgrounds, marging, borders, text, hover effects, position and display, navigation, dropdown, image gallery, selectors, classes and id's, using CSS from bootstrap</SUBJECT>
+		<ACHIEVEMENT>This awesome webste, CodeCademy Course: Learn CSS</ACHIEVEMENT>
+	</LANGUAGE>
+	<LANGUAGE>
+		<NAME>Javascript</NAME>
+		<SUBJECT>Computing and displaying arithmetic calculation, make and call functions with parameters, adding event listener and handler, for-loops and if-statements, DOM, setTimeout, AJAX XML file, JQuery</SUBJECT>
+		<ACHIEVEMENT>CodeCademy Course: Introduction to Javascript, display how close your next birtday is in a levelbar based on getAge function and aritmetics, replacing elements in functions, enabling and disableling click-functions on elements, start and pause music on button-click, switch between images on time interval, retrieving and displaying data from XML file with AJAX XEMLHTTP request, through child element, access parent music file and change it's source </ACHIEVEMENT>
+	</LANGUAGE>
+	<LANGUAGE>
+		<NAME>SQL</NAME>
+		<SUBJECT>Creating databases and tables on command line or with Spring Framework, inserting data manually or with postman, joining two tables, table inside another table, one-to-many or many-to-many relationships, retrieving and displaying data on webpage</SUBJECT>
+		<ACHIEVEMENT>Connecting Angular webpage with SQL database with Spring Boot</ACHIEVEMENT>
+	</LANGUAGE>
+	<LANGUAGE>
+		<NAME>PHP: Hypertext Preprocessor </NAME>
+		<SUBJECT>Variables, arrays, for-loop, if-statements, arithmetic operators, String and concatening, adding php-code in html-file</SUBJECT>
+		<ACHIEVEMENT>Sending online form to my emailaddress</ACHIEVEMENT>
+	</LANGUAGE>
+	<LANGUAGE>
+		<NAME>Typescript in Angular</NAME>
+		<SUBJECT>HTTP request, components, routing, services</SUBJECT>
+		<ACHIEVEMENT>Project that connects with frontend (Angular) and backend (SQL, Spring, Java)</ACHIEVEMENT>
+	</LANGUAGE>
+
+</SKILLS>

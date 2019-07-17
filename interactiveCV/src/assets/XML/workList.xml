@@ -1,0 +1,42 @@
+<WORKEXPERIENCE>
+	<WORK>
+		<TIME>2019 - Now</TIME>
+		<FUNCTION>Java Traineeship</FUNCTION>
+		<PLACE>Young Capital</PLACE>
+		<TASK>Complete Java bootcamp of ITPH, succeed the OCA 1Z0-808 exam and scrum exam</TASK>
+		<INFO>Subject: Java SE8 Fundamentals, Java 8 API Documentation, Scrum, Lambda, Git 2.21.0 and Github, HTML5 en CSS3, Typescript, Bootstrap, Spring REST, HTTP, Spring Boot and Spring Data, Postman, Persistence with JPA and Hibernate, UML Class and Use Case Diagram, SQL, Angular 6 CLI with Node.js, working with programs Visual Studio Code, Eclipse, and IntelliJ.</INFO>
+		<ICON>fas fa-code</ICON>
+	</WORK>
+	<WORK>
+		<TIME>2017 - 2018</TIME>
+		<FUNCTION>Cheesy Parttimer</FUNCTION>
+		<PLACE>Albert Heijn Schiphol</PLACE>
+		<TASK>Run the Dutch- and foreign cheese department, slicing and packing high-end meat, stock products, quality control, cleaning task, providing information and suggestion about cheese to guest</TASK>
+		<INFO>Senior position was informally suggested</INFO>
+		<ICON>fas fa-cheese</ICON>
+	</WORK>
+	<WORK>
+		<TIME>2013 - 2014</TIME>
+		<FUNCTION>Assistent Manager</FUNCTION>
+		<PLACE>Sissi's Tealounge</PLACE>
+		<TASK>Opening and closing the shop, basic administration, handeling money of the register, stock managing, cleaning task, provide customer Chinese thee advice, making coffee, bubble tea and Chinese snacks and bakery.</TASK>
+		<INFO>Began as regular part-timer, but got promoted</INFO>
+		<ICON>fas fa-coffee</ICON>
+	</WORK>
+	<WORK>
+		<TIME>2011 - 2012</TIME>
+		<FUNCTION>Cleaning lady</FUNCTION>
+		<PLACE>Schiphol</PLACE>
+		<TASK>In fast pace cleaning rooms, restock items</TASK>
+		<INFO>Part-time job while studying</INFO>
+		<ICON>fas fa-broom</ICON>
+	</WORK>
+	<WORK>
+		<TIME>2007 - 2011</TIME>
+		<FUNCTION>Stock Clerk</FUNCTION>
+		<PLACE>Aki Horeca, Japanese shop</PLACE>
+		<TASK>Stock items, packaging food, cleaning duties, cashier</TASK>
+		<INFO>First part-time job</INFO>
+		<ICON>fas fa-box-open</ICON>
+	</WORK>
+</WORKEXPERIENCE>

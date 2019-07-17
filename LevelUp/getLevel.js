@@ -1,7 +1,7 @@
 //-------------Level Up Javascript------------------
 
 
-let bday = "1990,09,09"; // <------ enter here your birthday YYYY,MM,DD
+let bday = "1990,07,19"; // <------ enter here your birthday YYYY,MM,DD
 
 //seperate given bday into day, month, and year
 let bdayYear =	parseInt(bday.substring(0,4), 10);

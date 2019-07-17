@@ -1,0 +1,9 @@
+.container {
+    background-image: url("/assets/Pictures/samsung.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 98vh;
+    width: 100vw;
+    margin-left: 2%;
+    position: inherit;
+}
