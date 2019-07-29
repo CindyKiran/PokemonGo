@@ -6,13 +6,15 @@ import { AppComponent } from './app.component';
 import { SamsungComponent } from './components/samsung/samsung.component';
 import { LevelUpComponent } from './components/level-up/level-up.component';
 import { MusicComponent } from './components/music/music.component';
+import { ContentComponent } from './components/content/content.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     SamsungComponent,
     LevelUpComponent,
-    MusicComponent
+    MusicComponent,
+    ContentComponent
   ],
   imports: [
     BrowserModule,
