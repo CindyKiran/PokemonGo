@@ -7,6 +7,7 @@ import { SamsungComponent } from './components/samsung/samsung.component';
 import { LevelUpComponent } from './components/level-up/level-up.component';
 import { MusicComponent } from './components/music/music.component';
 import { ContentComponent } from './components/content/content.component';
+import { MenuComponent } from './components/menu/menu.component';
 
 @NgModule({
   declarations: [
@@ -14,7 +15,8 @@ import { ContentComponent } from './components/content/content.component';
     SamsungComponent,
     LevelUpComponent,
     MusicComponent,
-    ContentComponent
+    ContentComponent,
+    MenuComponent
   ],
   imports: [
     BrowserModule,

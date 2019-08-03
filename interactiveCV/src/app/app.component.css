@@ -1,4 +1,60 @@
 .container {
     position: relative;
+    height: -webkit-fill-available;
     border: 3px solid blue;
+}
+
+#samsung{
+    float: left;
+    margin-left: 21vh;
+    background-image: url("/assets/Pictures/samsung.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 49.2vh 35vh;
+    filter: drop-shadow(-8px 11px 13px #9f5a74 );
+    border: 3px solid white;
+}
+
+#coffee{
+    float: left;
+    background-image: url("/assets/Pictures/coffee.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 19vh;
+    border: 3px solid white;
+}
+
+#plant{
+    float: right;
+    background-image: url("/assets/Pictures/flower.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 20vh;
+    margin-bottom: 8vh;
+    margin-right: 22vh;
+    border: 3px solid white;
+}
+
+#origami{
+    float: left;
+    background-image: url("/assets/Pictures/origami.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 13vh 17vh;
+    margin-left: 5vh;
+    margin-top: 42vh;
+    border: 3px solid white;
+} 
+
+@media screen and (max-width:1380px) {
+    #plant, #coffee { display: none }
+}
+
+@media screen and (max-width:950px) {
+    #origami { display: none; }
+    
+    #samsung{
+        padding: 66vw 48vw;
+        margin: 0;
+    }
 }

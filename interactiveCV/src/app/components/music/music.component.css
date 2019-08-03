@@ -4,12 +4,13 @@
     height: 7vh;
     position: absolute;
     top: 11vh;
-    margin-left: 59vh;
+    margin-left: 117vh;
     border-radius: 50%;
     border: aliceblue;
     background-color: #eaeaea;
     box-shadow: 0 1px 1px rgba(0, 0, 0, .25), 0 2px 3px rgba(0, 0, 0, .1);
     cursor: pointer;
+    z-index: 999;
 }
 
 .musicMute {

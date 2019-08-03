@@ -1,4 +1,23 @@
 body{
-    background-color: rgb(194, 138, 148);
+    background: rgb(255, 220, 220);
     margin: 0;
+}
+
+.samsung-content {
+    height: 79vh;
+    width: 59.5vh;
+    margin: auto;
+    position: absolute;
+    top: 10.1vh;
+    left: 67vh;
+    border: 3px solid yellow;
+}
+
+@media screen and (max-width:950px) {
+    .samsung-content{
+        top: 13.5vw;
+        left: 8.5vw;
+        height: 107vw;
+        width: 80vw;
+    }
 }
