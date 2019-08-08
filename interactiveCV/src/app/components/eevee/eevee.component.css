@@ -1,0 +1,16 @@
+#eevee {
+    background-image: url("/assets/Pictures/eevee1.gif");
+    background-size: cover;
+    padding: 10%;
+    position: absolute;
+    top: 50%;
+    left: 65%;
+}
+
+#eevee:hover {
+    background-image: url("/assets/Pictures/eevee2.gif");
+    filter: drop-shadow(0px 11px 25px white);
+    top: 49.5%;
+    left: 66%;
+    cursor: pointer;
+}

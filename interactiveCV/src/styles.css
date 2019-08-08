@@ -1,8 +1,19 @@
 body{
     background: rgb(255, 220, 220);
     margin: 0;
+    font-family: 'Nunito', sans-serif;
+    color: #5f7e79;
 }
 
+/*for basic HTML tages*/
+h1, h2 { 
+    text-align: center; 
+    color: #05869b;
+}
+
+a { text-decoration: none; }
+
+/*for classes*/
 .samsung-content {
     height: 79vh;
     width: 59.5vh;
@@ -13,6 +24,40 @@ body{
     border: 3px solid yellow;
 }
 
+.samsung-popup { 
+    width: 95%;
+    height: 95%;
+    position: absolute;
+    /* bottom: 0; */
+    left: 2.1%;
+    border: 1px solid red;
+    background: rgb(255,255,255);
+    background: linear-gradient(148deg, rgba(255,255,255,1) 13%, rgba(230,255,246,1) 90%);
+}
+
+.buttonOval{
+    background: linear-gradient(98deg, rgba(181,245,166,1) 0%, rgba(36,204,170,1) 73%);
+    margin: 12px auto;
+    padding: 4%;
+    text-transform: uppercase;
+    transition: 0.5s;
+    color: white;
+    border: none;
+    border-radius: 30px;
+    display: block;
+    font-size: 20px;
+    width: 49%;
+    background-color: #38d1a1;
+}
+
+.buttonOval:hover {
+    cursor: pointer;
+    box-shadow: 0px 0px 9px -2px #00ffeb;
+    background: none;
+    background-color: #2bcecc;
+}
+
+/*Responsive setting*/
 @media screen and (max-width:950px) {
     .samsung-content{
         top: 13.5vw;

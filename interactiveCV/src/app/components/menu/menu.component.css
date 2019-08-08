@@ -1,0 +1,40 @@
+
+a { 
+    color: white;
+    display: block;
+}
+
+.samsung-popup {
+    animation: popup 0.8s;
+    animation-timing-function: ease;
+    animation-fill-mode: forwards;
+    position: absolute;
+    bottom: 0;
+}
+
+@keyframes popup {
+  0% {
+    opacity: 0;
+    height:0%;
+  }
+  100% {
+    opacity: 100%;
+    height: 95%;
+  }
+} 
+
+.buttonOval {
+  animation: popupButton 1.3s;
+  animation-timing-function: ease;
+  animation-fill-mode: forwards;
+}
+
+@keyframes popupButton {
+  0% {
+    opacity: 0;
+    height:0;
+  }
+  100% {
+    opacity: 100%;
+  }
+} 

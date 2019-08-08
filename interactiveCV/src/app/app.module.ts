@@ -6,8 +6,11 @@ import { AppComponent } from './app.component';
 import { SamsungComponent } from './components/samsung/samsung.component';
 import { LevelUpComponent } from './components/level-up/level-up.component';
 import { MusicComponent } from './components/music/music.component';
-import { ContentComponent } from './components/content/content.component';
 import { MenuComponent } from './components/menu/menu.component';
+import { DemoComponent } from './components/demo/demo.component';
+
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import { EeveeComponent } from './components/eevee/eevee.component';
 
 @NgModule({
   declarations: [
@@ -15,12 +18,14 @@ import { MenuComponent } from './components/menu/menu.component';
     SamsungComponent,
     LevelUpComponent,
     MusicComponent,
-    ContentComponent,
-    MenuComponent
+    MenuComponent,
+    DemoComponent,
+    EeveeComponent
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    BrowserAnimationsModule
   ],
   providers: [],
   bootstrap: [AppComponent]

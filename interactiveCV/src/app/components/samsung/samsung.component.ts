@@ -12,4 +12,7 @@ export class SamsungComponent implements OnInit {
   ngOnInit() {
   }
 
+  openMenu() {
+    document.getElementById('id01').style.display='block';
+  }
 }

@@ -17,3 +17,12 @@
     color: #c4b4b4;
     background:#d4d4d4;
 }
+
+@media screen and (max-width:950px) {
+    .musicButton{
+        margin-left: 77vw;
+        top: 15vw;
+        width: 9vw;
+        height: 9vw;
+    }
+}
